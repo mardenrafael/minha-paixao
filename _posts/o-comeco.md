@@ -1,12 +1,12 @@
 ---
 title: "O começo"
 excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
-coverImage: "/assets/blog/o-comeco/cover.jpeg"
+coverImage: "../assets/blog/o-comeco/cover.jpeg"
 date: "2024-08-02T00:00:00.000Z"
 author:
   name: Marden Rafael
 ogImage:
-  url: "public/assets/blog/o-comeco/cover.jpeg"
+  url: "../assets/blog/o-comeco/cover.jpeg"
 ---
 
 A gente se conheceu em julho, eu a conheci na minha pior epoca, não tinha esperança em mim, eu tinha uma rotina de ir todos os dias comprar pão no mercado piemon, que ficava a caminho de casa quando eu sai do trabalho. Eu um dia certo dia eu fui la, como rotina, e encontrei ela. até então não sabia que ia ser a mulher da minha vida, mas aquele sorriso quando ela veio me atender, me oferencendo 10 pães, aquele sorriso, aquela animação, aquela simpatia. aquilo me ganhou.
