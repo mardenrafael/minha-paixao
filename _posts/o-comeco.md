@@ -1,8 +1,8 @@
 ---
 title: "O começo"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
+excerpt: "Estou escrevendo um post sobre o início do nosso relacionamento, e só de pensar nisso já me dá um calor no coração. Foi uma fase tão cheia de descobertas, onde cada encontro parecia revelar algo novo e lindo sobre nós. Lembro como os momentos juntos eram mágicos, com conversas que fluíam naturalmente e olhares que diziam tanto, mesmo sem palavras. Sabe aquela sensação de que o mundo inteiro para, e só existe a gente? Quero passar isso no post, essa magia do começo, onde tudo era tão leve, novo e profundamente especial."
 coverImage: "https://mardenrafael.github.io/minha-paixao/assets/blog/o-comeco/cover.jpeg"
-date: "2024-08-02T00:00:00.000Z"
+date: "2024-08-01T00:00:00.000Z"
 author:
   name: Marden Rafael
 ogImage:
