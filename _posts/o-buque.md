@@ -1,12 +1,12 @@
 ---
 title: "O buquê"
 excerpt: "O dia que eu dei pra ela um buque, eu vi ela chorando de felicidade, nesse dia eu senti como era o sentimento de felicidade genuina."
-coverImage: "https://mardenrafael.github.io/minha-paixao/assets/blog/o-buque/cover.jpg"
+coverImage: "https://love.marden.tech/assets/blog/o-buque/cover.jpg"
 date: "2024-09-13T00:00:00.000Z"
 author:
   name: Marden Rafael
 ogImage:
-  url: "https://mardenrafael.github.io/minha-paixao/assets/blog/o-buque/cover.jpg"
+  url: "https://love.marden.tech/assets/blog/o-buque/cover.jpg"
 ---
 
 Essa historia de amor esta em produção ainda <3

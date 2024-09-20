@@ -1,12 +1,12 @@
 ---
 title: "O começo"
 excerpt: "Estou escrevendo um post sobre o início do nosso relacionamento, e só de pensar nisso já me dá um calor no coração. Foi uma fase tão cheia de descobertas, onde cada encontro parecia revelar algo novo e lindo sobre nós. Lembro como os momentos juntos eram mágicos, com conversas que fluíam naturalmente e olhares que diziam tanto, mesmo sem palavras. Sabe aquela sensação de que o mundo inteiro para, e só existe a gente? Quero passar isso no post, essa magia do começo, onde tudo era tão leve, novo e profundamente especial."
-coverImage: "https://mardenrafael.github.io/minha-paixao/assets/blog/o-comeco/cover.jpeg"
+coverImage: "https://love.marden.tech/assets/blog/o-comeco/cover.jpeg"
 date: "2024-08-01T00:00:00.000Z"
 author:
   name: Marden Rafael
 ogImage:
-  url: "https://mardenrafael.github.io/minha-paixao/assets/blog/o-comeco/cover.jpeg"
+  url: "https://love.marden.tech/assets/blog/o-comeco/cover.jpeg"
 ---
 
 A gente se conheceu em julho, eu a conheci na minha pior epoca, não tinha esperança em mim, eu tinha uma rotina de ir todos os dias comprar pão no mercado piemon, que ficava a caminho de casa quando eu sai do trabalho. Eu um dia certo dia eu fui la, como rotina, e encontrei ela. até então não sabia que ia ser a mulher da minha vida, mas aquele sorriso quando ela veio me atender, me oferencendo 10 pães, aquele sorriso, aquela animação, aquela simpatia. aquilo me ganhou.
@@ -15,7 +15,7 @@ Eu fui para casa pensando nela, sem saber oq eu senti na hora, mas sabia que era
 
 Naquela semana ainda, se não me engano no 3º dia, peguei o número de telefone daquela mulher incrivel que eu conheci e sem saber ao certo, ali eu decidi que ela seria a mãe dos meus filhos. Descobri o nome dela, Kaylane, kaylane coutinho da silva. Nesse dia eu me apaixonei um pouco mais.
 
-![a](https://mardenrafael.github.io/minha-paixao/assets/blog/o-comeco/uniforme.jpg)
+![a](https://love.marden.tech/assets/blog/o-comeco/uniforme.jpg)
 
 Eu sempre sonhei em ter uma mulher companheira, que tenha as mesmas vontades, mesmo hobbies que eu. e meu Deus, você que esta lendo, não vai acreditar. Essa mulher maravilhosa que eu conheci, fazia a mesma faculdade que eu, e eu sou apaixonado na minha profissão. Nesse dia eu me apaixonei um pouco mais.
 
