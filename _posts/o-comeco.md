@@ -15,7 +15,7 @@ Eu fui para casa pensando nela, sem saber oq eu senti na hora, mas sabia que era
 
 Naquela semana ainda, se não me engano no 3º dia, peguei o número de telefone daquela mulher incrivel que eu conheci e sem saber ao certo, ali eu decidi que ela seria a mãe dos meus filhos. Descobri o nome dela, Kaylane, kaylane coutinho da silva. Nesse dia eu me apaixonei um pouco mais.
 
-![a](http://localhost:3000/assets/blog/o-comeco/uniforme.jpg)
+![a](https://mardenrafael.github.io/minha-paixao/assets/blog/o-comeco/uniforme.jpg)
 
 Eu sempre sonhei em ter uma mulher companheira, que tenha as mesmas vontades, mesmo hobbies que eu. e meu Deus, você que esta lendo, não vai acreditar. Essa mulher maravilhosa que eu conheci, fazia a mesma faculdade que eu, e eu sou apaixonado na minha profissão. Nesse dia eu me apaixonei um pouco mais.
 
