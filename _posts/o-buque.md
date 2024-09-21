@@ -16,6 +16,7 @@ Estava em um dia ruim, desde que sai de perto dela eu não fui o mesmo, e no mes
 ![b](https://love.marden.tech/assets/blog/o-buque/IMG-20240913-WA0145.jpg)
 ![c](https://love.marden.tech/assets/blog/o-buque/IMG-20240913-WA0144.jpg)
 ![d](https://love.marden.tech/assets/blog/o-buque/IMG-20240913-WA0147.jpg)
+![e](https://love.marden.tech/assets/blog/o-buque/IMG-20240913-WA0148.jpg)
 
 Kaylane Countinho (Gimenez)
 
