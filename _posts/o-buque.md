@@ -13,7 +13,7 @@ Que dia incrivel meus amigos, eu estava viajando estava em capitolio - MG. longe
 
 Estava em um dia ruim, desde que sai de perto dela eu não fui o mesmo, e no mesmo dia 13 de setembro de 2024. ela me falava que o dia dela estava normal, sem nenhuma surpresa, mal sabia ela que eu estava planejando tudo. Entrei em contato com a floricultura, e meu Deus, eles me respondiam a cada 40 minutos, eu estava quase ligando para xingar eles. mas consegui pedir cerca das 17:00 e buque chegou nela, e então eu recebi essa fotos abaixo, que me fez o homem mais feliz do mundo, toda vez que eu olho para elas eu sinto a mesma sensação de felicidade, por que eu fiz a minha princessa feliz. Eu te amo!
 
-![b](https://love.marden.tech/assets/blog/o-buque/IMG-20240913-WA0145.jpg)
+![b](../assets/blog/o-buque/IMG-20240913-WA0145.jpg)
 ![c](https://love.marden.tech/assets/blog/o-buque/IMG-20240913-WA0144.jpg)
 ![d](https://love.marden.tech/assets/blog/o-buque/IMG-20240913-WA0147.jpg)
 ![e](https://love.marden.tech/assets/blog/o-buque/IMG-20240913-WA0148.jpg)

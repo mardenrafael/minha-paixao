@@ -26,3 +26,32 @@ export function getAllPosts(): Post[] {
     .sort((post1, post2) => (post1.date < post2.date ? -1 : 1));
   return posts;
 }
+
+const imagesDirectory = join(process.cwd(), "public", "assets", "blog");
+export function getAllImages() {
+  const images: string[] = [];
+  readRecursiveFolder(imagesDirectory, null, images);
+
+  return images;
+}
+
+function readRecursiveFolder(
+  folder: string,
+  originalName: string | null,
+  memo: string[] = []
+) {
+  if (fs.statSync(folder).isDirectory()) {
+    for (const imageOrFolder of fs.readdirSync(folder)) {
+      const path = join(folder, imageOrFolder);
+      readRecursiveFolder(
+        path,
+        originalName
+          ? join(originalName, imageOrFolder)
+          : join("assets", "blog", imageOrFolder),
+        memo
+      );
+    }
+  } else {
+    originalName && memo.push(originalName);
+  }
+}
